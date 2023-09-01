@@ -1,0 +1,157 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+}
+
+.box {
+    height: 200px;
+}
+
+.box.red {
+    background-color: red;
+}
+
+.box.green {
+    display: flex;
+    width: 70%;
+    background-color: green;
+}
+
+.box.blue {
+    display: flex;
+    width: 30%;
+    background-color: blue;
+}
+
+.box-container {
+    display: flex;
+}
+
+.container {
+    /* display: flex; */
+    /* flex-direction: row; */
+    /* align-items: flex-end; */
+    /* justify-content: flex-end; */
+    background: #747474;
+    height: 40vh;
+    /* width: 80%; */
+}
+
+.box.pink {
+    width: 50%;
+    background-color: pink;
+}
+
+.box.coral{
+    width: 50%;
+    background-color: coral;
+}
+
+.box-container-1 {
+    display: flex;
+}
+
+.box.brown {
+    width: 50%;
+    display: flex;
+    background-color: brown;
+}
+
+.box.brown-1 {
+    width: 50%;
+    background-color: blueviolet;
+}
+
+.box.brown-2 {
+    width: 50%;
+    background-color: crimson;
+}
+
+.box.aqua {
+    width: 50%;
+    display: flex;
+    background-color: aqua;
+}
+
+.aqua-1 {
+    height: 50%;
+    background-color: chartreuse;
+}
+
+.aqua-2 {
+    height: 50%;
+    background-color: cornflowerblue;
+}
+
+.aqua-3 {
+    height: 50%;
+    background-color: darkred;
+}
+
+.aqua-4 {
+    height: 50%;
+    background-color: darkslategrey;
+}
+
+.aqua-a {
+    height: inherit;
+    width: 50%;
+}
+
+.aqua-b {
+    height: inherit;
+    width: 50%;
+}
+
+.box-container-2 {
+    display: flex;
+}
+
+.box.darkblue {
+    width: 50%;
+    display: flex;
+    background-color: darkblue;
+}
+
+.darkblue-1 {
+    height: 50%;
+    background-color: aquamarine;
+}
+
+.darkblue-2 {
+    height: 50%;
+    background-color: darkmagenta;
+}
+
+.darkblue-3 {
+    height: 50%;
+    background-color: dodgerblue;
+}
+
+.darkblue-4 {
+    height: 50%;
+    background-color: hotpink;
+}
+
+.darkblue-a {
+    /* height: inherit; */
+    width: 50%;
+}
+
+.darkblue-b {
+    /* height: inherit; */
+    width: 50%;
+}
+
+.box.darkkhaki {
+    width: 50%;
+    background-color: darkkhaki;
+}
+
+.box-container-3 {
+    display: flex;
+}
